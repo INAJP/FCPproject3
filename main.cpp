@@ -12,4 +12,4 @@ struct Course {
     string coursename;
     float grade;
     int credits;
-};//rfftvftf
+};
